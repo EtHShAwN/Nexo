@@ -2,7 +2,7 @@
     Nexo -- New Generation Internet Resourece Crawler
 
     Using the following Package:
-        Tkinter -- GUI
+        PySide2 -- GUI
         Urllib3 -- Web Core
 
 '''
